@@ -376,13 +376,16 @@ section .title::after {
 	background: rgb(181, 0, 252);
 }
 .skills-content .right .html::before {
-	width: 80%;
+	width: 85%;
 }
 .skills-content .right .css::before {
-	width: 70%;
+	width: 75%;
 }
 .skills-content .right .js::before {
-	width: 75%;
+	width: 80%;
+}
+.skills-content .right .VueJS::before {
+	width: 85%;
 }
 .skills-content .right .ReactJS::before {
 	width: 70%;
